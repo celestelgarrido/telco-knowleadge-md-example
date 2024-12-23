@@ -1,20 +1,3 @@
-<!-- image -->
-
-There is a margin between the input power low alarm threshold and the receiver sensitivity and a margin between the input power high alarm threshold and the overload point. This ensures that the system can report an input power low alarm before the actual input power reaches the receiver sensitivity or an input power high alarm before the actual input power reaches the overload point.
-
-## 13.2.11 Board Specifications
-
-## Mechanical Specifications
-
-| Board   | Item                      | Unit   | Value                |
-|---------|---------------------------|--------|----------------------|
-| TNZ8NQ2 | Dimensions (H x W x D)    | mm     | 19.80×193.80 ×205.90 |
-|         | Dimensions (H x W x D)    | in.    | 0.78×7.64×8.1 1      |
-|         | Weight                    | kg     | 1.2                  |
-|         | Weight                    | lb.    | 2.65                 |
-|         | Typical Power Consumption | W      | 44.2                 |
-|         | Maximum Power Consumption | W      | 48.3                 |
-
 ## 13.3 TNZ8NS4
 
 TNZ8NS4: 1 x 100G line service processing board
